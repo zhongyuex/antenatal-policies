@@ -3,4 +3,7 @@ This timeline requires R and the R package <a href="https://github.com/daattali/
 
 ## How to add to the timeline
 The Timeline.csv file is in the following format:
-content|start time|end time|group
+
+|content|start time|end time|group|
+
+Please see timevis documentation for data format and customizations through HTML & CSS.
